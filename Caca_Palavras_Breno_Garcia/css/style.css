@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(110, 95, 248);
+}
+#titulo{
+    color: #ffffff;
+}
+td{
+    border-radius: 5px;
+    padding-left: 12px ;
+}
+#tabe{
+    align-self: center;
+    border: 3px solid rgb(0, 0, 0);
+    font-size: 30px;
+    letter-spacing: 10px;
+    border-radius: 5px;
+    background-color: transparent;
+    font-weight: 600;
+    width: 1000px;
+}
+.cfogo{
+    background-color:#ff0000;
+}
+.cagua{
+    background-color: #0099ff;
+}
+.cplanta{
+    background-color: #09ff00;
+}
+.cregi{
+    background-color: rgb(2, 8, 14);
+}
+#respostas{
+    color: #fff;
+}
+#palavras{
+    background-color: gold;
+}
